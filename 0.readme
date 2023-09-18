@@ -1,0 +1,44 @@
+SM64GPT
+Overview
+SM64GPT is a project that leverages GPT-based machine learning models to generate and modify Super Mario 64 ROMs. Create custom levels, add new objects, and even modify in-game text with the power of GPT!
+
+Features
+Generate custom Super Mario 64 levels
+Add or modify in-game objects like 1-up mushrooms, coins, and enemies
+Change in-game text for a personalized experience
+Scale objects and modify their properties
+Save your custom ROMs in .z64 format
+Requirements
+Python 3.x
+Hackersm64 base ROM
+GPT model (GPT-4, GPT-5, or similar)
+Installation
+Clone the repository:
+
+ 
+Copy code
+git clone https://github.com/your-github-username/SM64GPT.git
+Navigate to the project directory:
+
+cd SM64GPT
+Install the required Python packages:
+
+bash
+Copy code
+pip install -r requirements.txt
+Usage
+Place your Hackersm64 base ROM in the base_rom directory.
+
+Run the main script:
+
+bash
+Copy code
+python main.py
+Follow the on-screen prompts to generate your custom ROM.
+
+Contributing
+We welcome contributions! Please see the CONTRIBUTING.md file for details.
+
+License
+This project is licensed under the MIT License. See the LICENSE.md file for details.
+
